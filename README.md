@@ -10,3 +10,5 @@ Reciprocal Trnasformation
 Square Root Transformation
 Exponential Trnasformation
 Box Cox Transformation etc.
+
+For this i have used titanic dataset for practice purpose which is got from Kaggle. 
